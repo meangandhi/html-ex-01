@@ -1,0 +1,21 @@
+head {
+    background-color: white;
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;
+    text-align: center;
+}
+h1 {
+    color: black;
+}
+body {
+    background-color: black;
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    font-style: italic;
+    line-height: 1.5;
+    text-align: right;
+    text-transform: uppercase;
+    text-decoration: line-through;
+}
